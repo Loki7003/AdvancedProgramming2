@@ -1,0 +1,29 @@
+.logowanie{
+    width: 400px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.logowanie form{
+    align-items: center;
+    text-align: left;
+}
+.logowanie form label{
+    display: inline-block;
+    width: 150px;
+    padding: 10px;
+}
+.logowanie form input{
+    display: inline-block;
+    width: 200px;
+}
+.logowanie form .form-group{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+.logowanie form .form-group button{
+    width: 90%;
+    height: 40px;
+}
