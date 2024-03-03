@@ -1,0 +1,14 @@
+<div class="logowanie">
+    <h2>Logowanie</h2>
+    <form (ngSubmit)="logowanie()" #form="ngForm">
+        <div class="for-group">
+            <label for="username">Użytkownik:</label>
+            <input type="text" name="username" id="username" [(ngModel)]="formData.username" required placeholder="Wpisz nazwę użytkownika" />
+        </div>
+        <div class="for-group">
+            <label for="password">Hasło:</label>
+            <input type="password" name="password" id="password" [(ngModel)]="formData.password" required />
+        </div>
+        <button type="submit" [disabled]="form.invalid">Zaloguj</button>
+    </form>
+</div>
