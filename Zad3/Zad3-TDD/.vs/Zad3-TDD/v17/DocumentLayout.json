@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zwier\\OneDrive\\Dokumenty\\GitHub\\AdvancedProgramming2\\Zad3\\Zad3-TDD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90480003-AA14-4A82-9EE7-7C7DEF129FFC}|Zad3-TDD\\Zad3-TDD.csproj|c:\\users\\zwier\\onedrive\\dokumenty\\github\\advancedprogramming2\\zad3\\zad3-tdd\\zad3-tdd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90480003-AA14-4A82-9EE7-7C7DEF129FFC}|Zad3-TDD\\Zad3-TDD.csproj|solutionrelative:zad3-tdd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90480003-AA14-4A82-9EE7-7C7DEF129FFC}|Zad3-TDD\\Zad3-TDD.csproj|c:\\users\\zwier\\onedrive\\dokumenty\\github\\advancedprogramming2\\zad3\\zad3-tdd\\zad3-tdd\\myclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90480003-AA14-4A82-9EE7-7C7DEF129FFC}|Zad3-TDD\\Zad3-TDD.csproj|solutionrelative:zad3-tdd\\myclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90480003-AA14-4A82-9EE7-7C7DEF129FFC}|Zad3-TDD\\Zad3-TDD.csproj|c:\\users\\zwier\\onedrive\\dokumenty\\github\\advancedprogramming2\\zad3\\zad3-tdd\\zad3-tdd\\myclasstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90480003-AA14-4A82-9EE7-7C7DEF129FFC}|Zad3-TDD\\Zad3-TDD.csproj|solutionrelative:zad3-tdd\\myclasstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyClassTest.cs",
+              "DocumentMoniker": "C:\\Users\\zwier\\OneDrive\\Dokumenty\\GitHub\\AdvancedProgramming2\\Zad3\\Zad3-TDD\\Zad3-TDD\\MyClassTest.cs",
+              "RelativeDocumentMoniker": "Zad3-TDD\\MyClassTest.cs",
+              "ToolTip": "C:\\Users\\zwier\\OneDrive\\Dokumenty\\GitHub\\AdvancedProgramming2\\Zad3\\Zad3-TDD\\Zad3-TDD\\MyClassTest.cs",
+              "RelativeToolTip": "Zad3-TDD\\MyClassTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T10:58:29.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyClass.cs",
+              "DocumentMoniker": "C:\\Users\\zwier\\OneDrive\\Dokumenty\\GitHub\\AdvancedProgramming2\\Zad3\\Zad3-TDD\\Zad3-TDD\\MyClass.cs",
+              "RelativeDocumentMoniker": "Zad3-TDD\\MyClass.cs",
+              "ToolTip": "C:\\Users\\zwier\\OneDrive\\Dokumenty\\GitHub\\AdvancedProgramming2\\Zad3\\Zad3-TDD\\Zad3-TDD\\MyClass.cs",
+              "RelativeToolTip": "Zad3-TDD\\MyClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T10:58:20.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zwier\\OneDrive\\Dokumenty\\GitHub\\AdvancedProgramming2\\Zad3\\Zad3-TDD\\Zad3-TDD\\Program.cs",
+              "RelativeDocumentMoniker": "Zad3-TDD\\Program.cs",
+              "ToolTip": "C:\\Users\\zwier\\OneDrive\\Dokumenty\\GitHub\\AdvancedProgramming2\\Zad3\\Zad3-TDD\\Zad3-TDD\\Program.cs",
+              "RelativeToolTip": "Zad3-TDD\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T10:28:59.309Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
