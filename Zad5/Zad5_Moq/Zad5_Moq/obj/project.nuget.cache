@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "J/9SvmzQAvwkEcFYJPRKrcRY7U73f0+7AC6axik8kSe475xKyHiyqS09AhMrtrPKvzzgfdNYtabbTskUtNkO/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zwier\\OneDrive\\Dokumenty\\GitHub\\AdvancedProgramming2\\Zad5\\Zad5_Moq\\Zad5_Moq\\Zad5_Moq.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zwier\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\zwier\\.nuget\\packages\\moq\\4.20.70\\moq.4.20.70.nupkg.sha512",
+    "C:\\Users\\zwier\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
+    "C:\\Users\\zwier\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
