@@ -43,14 +43,18 @@ describe('LogowanieComponent', () => {
   it('should display an error message for invalid login', () => {
     const usernameField = fixture.debugElement.nativeElement.querySelector('input[name="username"]');
     const passwordField = fixture.debugElement.nativeElement.querySelector('input[name="password"]');
-    const submitButton = fixture.debugElement.nativeElement.querySelector('button[type="submit"]');
+    const form = fixture.debugElement.nativeElement.querySelector('form');
 
-    usernameField.value = 'admin';
-    passwordField.value = 'admin123';
-
-    submitButton.click();
+    component.formData.username = 'admin';
+    component.formData.password = 'wrongpassword';
+  
+    usernameField.dispatchEvent(new Event('input'));
+    passwordField.dispatchEvent(new Event('input'));
+  
+    form.dispatchEvent(new Event('submit'));
+  
     fixture.detectChanges();
-
+  
     const errorMessage = fixture.debugElement.nativeElement.querySelector('.error-message');
     expect(errorMessage).toBeTruthy();
   });
@@ -58,14 +62,18 @@ describe('LogowanieComponent', () => {
   it('should log in for valid username and password', () => {
     const usernameField = fixture.debugElement.nativeElement.querySelector('input[name="username"]');
     const passwordField = fixture.debugElement.nativeElement.querySelector('input[name="password"]');
-    const submitButton = fixture.debugElement.nativeElement.querySelector('button[type="submit"]');
-
-    usernameField.value = '';
-    passwordField.value = '';
-
-    submitButton.click();
+    const form = fixture.debugElement.nativeElement.querySelector('form');
+  
+    component.formData.username = 'admin';
+    component.formData.password = 'admin123';
+  
+    usernameField.dispatchEvent(new Event('input'));
+    passwordField.dispatchEvent(new Event('input'));
+  
+    form.dispatchEvent(new Event('submit'));
+  
     fixture.detectChanges();
-
+  
     const errorMessage = fixture.debugElement.nativeElement.querySelector('.error-message');
     expect(errorMessage).toBeFalsy();
   });

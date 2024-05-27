@@ -12,11 +12,14 @@ export class LogowanieComponent {
     password: ''
   };
 
+  errorMessage!: string;
+
   logowanie() {
     if (this.formData.username === 'admin' && this.formData.password === 'admin123'){
       console.log('Zalogowano pomyślnie.');
+      this.errorMessage ='' ;
     } else {
-      console.log('Błąd logowania. Wprowadź poprawne dane.')
+      this.errorMessage = 'Błąd logowania. Wprowadź poprawne dane.';
     }
   }
 }

@@ -5,11 +5,23 @@ import { Router } from '@angular/router';
 @Component({
   selector: 'app-dashboard',
   templateUrl: './dashboard.component.html',
-  styleUrl: './dashboard.component.css'
+  styleUrls: ['./dashboard.component.css']
 })
-export class DashboardComponent {
-  constructor(private authService: AuthService, private router: Router){}
+export class DashboardComponent implements OnInit, OnDestroy {
+  isLoggedIn: boolean;
+  private authSubscription!: Subscription;
 
-  isLoggedIn = this.authService.isLoggedIn;
+  constructor(private authService: AuthService) {}
 
+  ngOnInit() {
+    this.authSubscription = this.authService.isLoggedIn.subscribe((loggedIn) => {
+      this.isLoggedIn = loggedIn;
+    });
+  }
+
+  ngOnDestroy() {
+    if (this.authSubscription) {
+      this.authSubscription.unsubscribe();
+    }
+  }
 }

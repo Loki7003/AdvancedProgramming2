@@ -13,12 +13,14 @@ export class LogowanieComponent {
     password: ''
   };
 
-  constructor(private authService: AuthService, private router: Router){}
-
+  errorMessage!: string;
 
   logowanie() {
-    this.authService.login();
-    this.router.navigate(['/dashboard'])
-
+    if (this.formData.username === 'admin' && this.formData.password === 'admin123'){
+      console.log('Zalogowano pomyślnie.');
+      this.errorMessage ='' ;
+    } else {
+      this.errorMessage = 'Błąd logowania. Wprowadź poprawne dane.';
+    }
   }
 }

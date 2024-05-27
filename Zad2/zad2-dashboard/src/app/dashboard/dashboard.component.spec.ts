@@ -67,17 +67,11 @@ describe('DashboardComponent', () => {
 
 
   it('should hide the menu after logging out', () => {
-
-    authService.logout(); // Zasymuluj wylogowanie
-
-    fixture.detectChanges(); // Zaktualizuj widok
-
-
-
+    authService.logout();
+    fixture.detectChanges();
+  
     const menu = fixture.debugElement.nativeElement.querySelector('app-menu');
-
     expect(menu).toBeFalsy();
-
   });
 
 });
