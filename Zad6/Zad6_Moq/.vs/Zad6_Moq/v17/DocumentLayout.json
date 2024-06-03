@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{E1E099E7-D368-40C1-A753-AFAF222DD518}|Zad6_Moq\\Zad6_Moq.csproj|solutionrelative:zad6_moq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1E099E7-D368-40C1-A753-AFAF222DD518}|Zad6_Moq\\Zad6_Moq.csproj|c:\\users\\zwier\\onedrive\\dokumenty\\github\\advancedprogramming2\\zad6\\zad6_moq\\zad6_moq\\orderprocessortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1E099E7-D368-40C1-A753-AFAF222DD518}|Zad6_Moq\\Zad6_Moq.csproj|solutionrelative:zad6_moq\\orderprocessortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1E099E7-D368-40C1-A753-AFAF222DD518}|Zad6_Moq\\Zad6_Moq.csproj|c:\\users\\zwier\\onedrive\\dokumenty\\github\\advancedprogramming2\\zad6\\zad6_moq\\zad6_moq\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E099E7-D368-40C1-A753-AFAF222DD518}|Zad6_Moq\\Zad6_Moq.csproj|solutionrelative:zad6_moq\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1E099E7-D368-40C1-A753-AFAF222DD518}|Zad6_Moq\\Zad6_Moq.csproj|c:\\users\\zwier\\onedrive\\dokumenty\\github\\advancedprogramming2\\zad6\\zad6_moq\\zad6_moq\\orderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1E099E7-D368-40C1-A753-AFAF222DD518}|Zad6_Moq\\Zad6_Moq.csproj|solutionrelative:zad6_moq\\orderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1E099E7-D368-40C1-A753-AFAF222DD518}|Zad6_Moq\\Zad6_Moq.csproj|c:\\users\\zwier\\onedrive\\dokumenty\\github\\advancedprogramming2\\zad6\\zad6_moq\\zad6_moq\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1E099E7-D368-40C1-A753-AFAF222DD518}|Zad6_Moq\\Zad6_Moq.csproj|solutionrelative:zad6_moq\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1E099E7-D368-40C1-A753-AFAF222DD518}|Zad6_Moq\\Zad6_Moq.csproj|c:\\users\\zwier\\onedrive\\dokumenty\\github\\advancedprogramming2\\zad6\\zad6_moq\\zad6_moq\\orderprocessortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E099E7-D368-40C1-A753-AFAF222DD518}|Zad6_Moq\\Zad6_Moq.csproj|solutionrelative:zad6_moq\\orderprocessortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,13 +34,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "OrderProcessorTests.cs",
               "DocumentMoniker": "C:\\Users\\zwier\\OneDrive\\Dokumenty\\GitHub\\AdvancedProgramming2\\Zad6\\Zad6_Moq\\Zad6_Moq\\OrderProcessorTests.cs",
               "RelativeDocumentMoniker": "Zad6_Moq\\OrderProcessorTests.cs",
               "ToolTip": "C:\\Users\\zwier\\OneDrive\\Dokumenty\\GitHub\\AdvancedProgramming2\\Zad6\\Zad6_Moq\\Zad6_Moq\\OrderProcessorTests.cs",
               "RelativeToolTip": "Zad6_Moq\\OrderProcessorTests.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAABFAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwCcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-05T19:32:40.999Z",
               "EditorCaption": ""
@@ -53,14 +53,14 @@
               "RelativeDocumentMoniker": "Zad6_Moq\\OrderProcessor.cs",
               "ToolTip": "C:\\Users\\zwier\\OneDrive\\Dokumenty\\GitHub\\AdvancedProgramming2\\Zad6\\Zad6_Moq\\Zad6_Moq\\OrderProcessor.cs",
               "RelativeToolTip": "Zad6_Moq\\OrderProcessor.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-05T19:30:43.551Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "IOrderService.cs",
               "DocumentMoniker": "C:\\Users\\zwier\\OneDrive\\Dokumenty\\GitHub\\AdvancedProgramming2\\Zad6\\Zad6_Moq\\Zad6_Moq\\IOrderService.cs",
               "RelativeDocumentMoniker": "Zad6_Moq\\IOrderService.cs",
@@ -79,7 +79,7 @@
               "RelativeDocumentMoniker": "Zad6_Moq\\Program.cs",
               "ToolTip": "C:\\Users\\zwier\\OneDrive\\Dokumenty\\GitHub\\AdvancedProgramming2\\Zad6\\Zad6_Moq\\Zad6_Moq\\Program.cs",
               "RelativeToolTip": "Zad6_Moq\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABTAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-05T19:28:38.423Z",
               "EditorCaption": ""

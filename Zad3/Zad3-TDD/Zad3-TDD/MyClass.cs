@@ -8,10 +8,10 @@ namespace Zad3_TDD
 {
     public class MyClass
     {
-        public static int MyMethod(double importantNumber)
+        public static bool MyMethod(double importantNumber)
         {
-            if (importantNumber > 0 && importantNumber <= 5) return 1;
-            else return 0;
+            if (importantNumber > 0 && importantNumber <= 5) return true;
+            else return false;
         }
     }
 }

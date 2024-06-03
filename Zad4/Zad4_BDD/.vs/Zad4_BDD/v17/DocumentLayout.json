@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\zwier\\OneDrive\\Dokumenty\\GitHub\\AdvancedProgramming2\\Zad4\\Zad4_BDD\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{68D4BBED-F0D3-40E5-B0A3-89C9E1AF4A61}|Zad4_BDD\\Zad4_BDD.csproj|c:\\users\\zwier\\onedrive\\dokumenty\\github\\advancedprogramming2\\zad4\\zad4_bdd\\zad4_bdd\\features\\bookshopsystem.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{68D4BBED-F0D3-40E5-B0A3-89C9E1AF4A61}|Zad4_BDD\\Zad4_BDD.csproj|solutionrelative:zad4_bdd\\features\\bookshopsystem.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{68D4BBED-F0D3-40E5-B0A3-89C9E1AF4A61}|Zad4_BDD\\Zad4_BDD.csproj|c:\\users\\zwier\\onedrive\\dokumenty\\github\\advancedprogramming2\\zad4\\zad4_bdd\\zad4_bdd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68D4BBED-F0D3-40E5-B0A3-89C9E1AF4A61}|Zad4_BDD\\Zad4_BDD.csproj|solutionrelative:zad4_bdd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68D4BBED-F0D3-40E5-B0A3-89C9E1AF4A61}|Zad4_BDD\\Zad4_BDD.csproj|c:\\users\\zwier\\onedrive\\dokumenty\\github\\advancedprogramming2\\zad4\\zad4_bdd\\zad4_bdd\\features\\bookshopsystem.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{68D4BBED-F0D3-40E5-B0A3-89C9E1AF4A61}|Zad4_BDD\\Zad4_BDD.csproj|solutionrelative:zad4_bdd\\features\\bookshopsystem.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{68D4BBED-F0D3-40E5-B0A3-89C9E1AF4A61}|Zad4_BDD\\Zad4_BDD.csproj|c:\\users\\zwier\\onedrive\\dokumenty\\github\\advancedprogramming2\\zad4\\zad4_bdd\\zad4_bdd\\stepdefinitions\\calculatorstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68D4BBED-F0D3-40E5-B0A3-89C9E1AF4A61}|Zad4_BDD\\Zad4_BDD.csproj|solutionrelative:zad4_bdd\\stepdefinitions\\calculatorstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{68D4BBED-F0D3-40E5-B0A3-89C9E1AF4A61}|Zad4_BDD\\Zad4_BDD.csproj|c:\\users\\zwier\\onedrive\\dokumenty\\github\\advancedprogramming2\\zad4\\zad4_bdd\\zad4_bdd\\stepdefinitions\\bookshopsystemstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68D4BBED-F0D3-40E5-B0A3-89C9E1AF4A61}|Zad4_BDD\\Zad4_BDD.csproj|solutionrelative:zad4_bdd\\stepdefinitions\\bookshopsystemstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68D4BBED-F0D3-40E5-B0A3-89C9E1AF4A61}|Zad4_BDD\\Zad4_BDD.csproj|c:\\users\\zwier\\onedrive\\dokumenty\\github\\advancedprogramming2\\zad4\\zad4_bdd\\zad4_bdd\\zad4_bdd.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{68D4BBED-F0D3-40E5-B0A3-89C9E1AF4A61}|Zad4_BDD\\Zad4_BDD.csproj|solutionrelative:zad4_bdd\\zad4_bdd.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{68D4BBED-F0D3-40E5-B0A3-89C9E1AF4A61}|Zad4_BDD\\Zad4_BDD.csproj|c:\\users\\zwier\\onedrive\\dokumenty\\github\\advancedprogramming2\\zad4\\zad4_bdd\\zad4_bdd\\features\\calculator.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{68D4BBED-F0D3-40E5-B0A3-89C9E1AF4A61}|Zad4_BDD\\Zad4_BDD.csproj|solutionrelative:zad4_bdd\\features\\calculator.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{68D4BBED-F0D3-40E5-B0A3-89C9E1AF4A61}|Zad4_BDD\\Zad4_BDD.csproj|c:\\users\\zwier\\onedrive\\dokumenty\\github\\advancedprogramming2\\zad4\\zad4_bdd\\zad4_bdd\\implicitusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,12 +31,8 @@
       "RelativeMoniker": "D:0:0:{68D4BBED-F0D3-40E5-B0A3-89C9E1AF4A61}|Zad4_BDD\\Zad4_BDD.csproj|solutionrelative:zad4_bdd\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68D4BBED-F0D3-40E5-B0A3-89C9E1AF4A61}|Zad4_BDD\\Zad4_BDD.csproj|c:\\users\\zwier\\onedrive\\dokumenty\\github\\advancedprogramming2\\zad4\\zad4_bdd\\zad4_bdd\\features\\calculator.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{68D4BBED-F0D3-40E5-B0A3-89C9E1AF4A61}|Zad4_BDD\\Zad4_BDD.csproj|solutionrelative:zad4_bdd\\features\\calculator.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68D4BBED-F0D3-40E5-B0A3-89C9E1AF4A61}|Zad4_BDD\\Zad4_BDD.csproj|c:\\users\\zwier\\onedrive\\dokumenty\\github\\advancedprogramming2\\zad4\\zad4_bdd\\zad4_bdd\\stepdefinitions\\calculatorstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68D4BBED-F0D3-40E5-B0A3-89C9E1AF4A61}|Zad4_BDD\\Zad4_BDD.csproj|solutionrelative:zad4_bdd\\stepdefinitions\\calculatorstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68D4BBED-F0D3-40E5-B0A3-89C9E1AF4A61}|Zad4_BDD\\Zad4_BDD.csproj|c:\\users\\zwier\\onedrive\\dokumenty\\github\\advancedprogramming2\\zad4\\zad4_bdd\\zad4_bdd\\zad4_bdd.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{68D4BBED-F0D3-40E5-B0A3-89C9E1AF4A61}|Zad4_BDD\\Zad4_BDD.csproj|solutionrelative:zad4_bdd\\zad4_bdd.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,20 +50,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\zwier\\OneDrive\\Dokumenty\\GitHub\\AdvancedProgramming2\\Zad4\\Zad4_BDD\\Zad4_BDD\\Program.cs",
               "RelativeDocumentMoniker": "Zad4_BDD\\Program.cs",
               "ToolTip": "C:\\Users\\zwier\\OneDrive\\Dokumenty\\GitHub\\AdvancedProgramming2\\Zad4\\Zad4_BDD\\Zad4_BDD\\Program.cs",
               "RelativeToolTip": "Zad4_BDD\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-05T19:01:13.51Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Zad4_BDD.csproj",
               "DocumentMoniker": "C:\\Users\\zwier\\OneDrive\\Dokumenty\\GitHub\\AdvancedProgramming2\\Zad4\\Zad4_BDD\\Zad4_BDD\\Zad4_BDD.csproj",
               "RelativeDocumentMoniker": "Zad4_BDD\\Zad4_BDD.csproj",
@@ -76,20 +76,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "BookshopSystemStepDefinitions.cs",
               "DocumentMoniker": "C:\\Users\\zwier\\OneDrive\\Dokumenty\\GitHub\\AdvancedProgramming2\\Zad4\\Zad4_BDD\\Zad4_BDD\\StepDefinitions\\BookshopSystemStepDefinitions.cs",
               "RelativeDocumentMoniker": "Zad4_BDD\\StepDefinitions\\BookshopSystemStepDefinitions.cs",
               "ToolTip": "C:\\Users\\zwier\\OneDrive\\Dokumenty\\GitHub\\AdvancedProgramming2\\Zad4\\Zad4_BDD\\Zad4_BDD\\StepDefinitions\\BookshopSystemStepDefinitions.cs",
               "RelativeToolTip": "Zad4_BDD\\StepDefinitions\\BookshopSystemStepDefinitions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-05T18:29:39.542Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "BookshopSystem.feature",
               "DocumentMoniker": "C:\\Users\\zwier\\OneDrive\\Dokumenty\\GitHub\\AdvancedProgramming2\\Zad4\\Zad4_BDD\\Zad4_BDD\\Features\\BookshopSystem.feature",
               "RelativeDocumentMoniker": "Zad4_BDD\\Features\\BookshopSystem.feature",
@@ -102,31 +102,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\zwier\\OneDrive\\Dokumenty\\GitHub\\AdvancedProgramming2\\Zad4\\Zad4_BDD\\Zad4_BDD\\Book.cs",
               "RelativeDocumentMoniker": "Zad4_BDD\\Book.cs",
               "ToolTip": "C:\\Users\\zwier\\OneDrive\\Dokumenty\\GitHub\\AdvancedProgramming2\\Zad4\\Zad4_BDD\\Zad4_BDD\\Book.cs",
               "RelativeToolTip": "Zad4_BDD\\Book.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T17:47:29.727Z"
+              "WhenOpened": "2024-04-05T17:47:29.727Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "CalculatorStepDefinitions.cs",
               "DocumentMoniker": "C:\\Users\\zwier\\OneDrive\\Dokumenty\\GitHub\\AdvancedProgramming2\\Zad4\\Zad4_BDD\\Zad4_BDD\\StepDefinitions\\CalculatorStepDefinitions.cs",
               "RelativeDocumentMoniker": "Zad4_BDD\\StepDefinitions\\CalculatorStepDefinitions.cs",
               "ToolTip": "C:\\Users\\zwier\\OneDrive\\Dokumenty\\GitHub\\AdvancedProgramming2\\Zad4\\Zad4_BDD\\Zad4_BDD\\StepDefinitions\\CalculatorStepDefinitions.cs",
               "RelativeToolTip": "Zad4_BDD\\StepDefinitions\\CalculatorStepDefinitions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T17:22:04.689Z"
+              "WhenOpened": "2024-04-05T17:22:04.689Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Calculator.feature",
               "DocumentMoniker": "C:\\Users\\zwier\\OneDrive\\Dokumenty\\GitHub\\AdvancedProgramming2\\Zad4\\Zad4_BDD\\Zad4_BDD\\Features\\Calculator.feature",
               "RelativeDocumentMoniker": "Zad4_BDD\\Features\\Calculator.feature",
@@ -134,11 +136,12 @@
               "RelativeToolTip": "Zad4_BDD\\Features\\Calculator.feature",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
-              "WhenOpened": "2024-04-05T17:16:59.658Z"
+              "WhenOpened": "2024-04-05T17:16:59.658Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ImplicitUsings.cs",
               "DocumentMoniker": "C:\\Users\\zwier\\OneDrive\\Dokumenty\\GitHub\\AdvancedProgramming2\\Zad4\\Zad4_BDD\\Zad4_BDD\\ImplicitUsings.cs",
               "RelativeDocumentMoniker": "Zad4_BDD\\ImplicitUsings.cs",

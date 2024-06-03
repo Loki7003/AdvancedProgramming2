@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { AuthService } from '../auth.service';
-import { Router } from '@angular/router';
+import { Router, RouterLink } from '@angular/router';
 
 @Component({
   selector: 'app-logowanie',
@@ -12,13 +12,14 @@ export class LogowanieComponent {
     username: '',
     password: ''
   };
-
+  constructor(private authService: AuthService, private router: Router) {}
   errorMessage!: string;
-
   logowanie() {
     if (this.formData.username === 'admin' && this.formData.password === 'admin123'){
       console.log('Zalogowano pomyślnie.');
       this.errorMessage ='' ;
+      this.authService.login();
+      this.router.navigate(['/dashboard']);
     } else {
       this.errorMessage = 'Błąd logowania. Wprowadź poprawne dane.';
     }

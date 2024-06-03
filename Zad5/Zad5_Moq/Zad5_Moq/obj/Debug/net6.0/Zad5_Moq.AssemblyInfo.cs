@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Zad5_Moq")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b53e591465de149df857557d68a754cdc5a1f846")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abe3811793e0ba93d4335723e541f49128960026")]
 [assembly: System.Reflection.AssemblyProductAttribute("Zad5_Moq")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Zad5_Moq")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

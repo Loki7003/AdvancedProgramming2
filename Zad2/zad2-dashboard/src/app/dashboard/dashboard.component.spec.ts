@@ -42,7 +42,8 @@ describe('DashboardComponent', () => {
 
 
 
-    authService.login(); // Zasymuluj zalogowanie
+    authService.login();
+    fixture.detectChanges();
 
   });
 

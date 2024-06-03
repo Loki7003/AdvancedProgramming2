@@ -27,7 +27,6 @@ C:\Users\zwier\OneDrive\Dokumenty\GitHub\AdvancedProgramming2\Zad4\Zad4_BDD\Zad4
 C:\Users\zwier\OneDrive\Dokumenty\GitHub\AdvancedProgramming2\Zad4\Zad4_BDD\Zad4_BDD\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
 C:\Users\zwier\OneDrive\Dokumenty\GitHub\AdvancedProgramming2\Zad4\Zad4_BDD\Zad4_BDD\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
 C:\Users\zwier\OneDrive\Dokumenty\GitHub\AdvancedProgramming2\Zad4\Zad4_BDD\Zad4_BDD\bin\Debug\net6.0\Newtonsoft.Json.dll
-C:\Users\zwier\OneDrive\Dokumenty\GitHub\AdvancedProgramming2\Zad4\Zad4_BDD\Zad4_BDD\bin\Debug\net6.0\NuGet.Frameworks.dll
 C:\Users\zwier\OneDrive\Dokumenty\GitHub\AdvancedProgramming2\Zad4\Zad4_BDD\Zad4_BDD\bin\Debug\net6.0\nunit.framework.dll
 C:\Users\zwier\OneDrive\Dokumenty\GitHub\AdvancedProgramming2\Zad4\Zad4_BDD\Zad4_BDD\bin\Debug\net6.0\TechTalk.SpecFlow.dll
 C:\Users\zwier\OneDrive\Dokumenty\GitHub\AdvancedProgramming2\Zad4\Zad4_BDD\Zad4_BDD\bin\Debug\net6.0\SpecFlow.Internal.Json.dll
@@ -112,3 +111,4 @@ C:\Users\zwier\OneDrive\Dokumenty\GitHub\AdvancedProgramming2\Zad4\Zad4_BDD\Zad4
 C:\Users\zwier\OneDrive\Dokumenty\GitHub\AdvancedProgramming2\Zad4\Zad4_BDD\Zad4_BDD\obj\Debug\net6.0\Zad4_BDD.pdb
 C:\Users\zwier\OneDrive\Dokumenty\GitHub\AdvancedProgramming2\Zad4\Zad4_BDD\Zad4_BDD\obj\Debug\net6.0\Zad4_BDD.genruntimeconfig.cache
 C:\Users\zwier\OneDrive\Dokumenty\GitHub\AdvancedProgramming2\Zad4\Zad4_BDD\Zad4_BDD\obj\Debug\net6.0\ref\Zad4_BDD.dll
+C:\Users\zwier\OneDrive\Dokumenty\GitHub\AdvancedProgramming2\Zad4\Zad4_BDD\Zad4_BDD\bin\Debug\net6.0\nunit.framework.legacy.dll

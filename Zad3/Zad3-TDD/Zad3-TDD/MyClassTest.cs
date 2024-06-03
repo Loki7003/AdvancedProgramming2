@@ -10,10 +10,10 @@ namespace Zad3_TDD
     public class MyClassTest
     {
         public void MethodTest() {
-            double number = 4.5;
-            int result = MyClass.MyMethod(number);
+            double number = 8;
+            bool result = MyClass.MyMethod(number);
 
-            ClassicAssert.AreEqual(1, result);
+            ClassicAssert.AreEqual(true, result);
 
             Console.WriteLine(result);
         }
